@@ -17,21 +17,21 @@ The system uses **local storage for data persistence**, making it ideal for **sm
 * Monitor task progress
 * Track completed, accepted, and failed tasks
 
-### 👨‍🔧 Employee Dashboard
+###  Employee Dashboard
 
 * View assigned tasks
 * Accept new tasks
 * Mark tasks as completed
 * Update task status
 
-### 📊 Task Management
+###  Task Management
 
 * New Tasks
 * Accepted Tasks
 * Completed Tasks
 * Failed Tasks
 
-### ⚡ System Advantages
+###  System Advantages
 
 * No database required
 * No backend server needed
@@ -41,7 +41,7 @@ The system uses **local storage for data persistence**, making it ideal for **sm
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ### Frontend
 
