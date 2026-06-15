@@ -1,4 +1,4 @@
-# 📋 Employee Task Management System
+# Employee Task Management System
 
 A lightweight **Employee Task Management System** built with **React and Vite** that helps small teams manage and track tasks efficiently without the complexity of databases, servers, or external services.
 
@@ -8,9 +8,9 @@ The system uses **local storage for data persistence**, making it ideal for **sm
 
 ---
 
-# 🚀 Features
+# Features
 
-### 👨‍💼 Admin Dashboard
+###  Admin Dashboard
 
 * Create and assign tasks to employees
 * View all assigned tasks
