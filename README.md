@@ -119,7 +119,7 @@ Employee_Task_Management_System
 
 # ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/employee-task-management-system.git
@@ -128,7 +128,7 @@ cd employee-task-management-system
 
 ---
 
-### 2️⃣ Install Dependencies
+###  Install Dependencies
 
 ```bash
 npm install
@@ -136,7 +136,7 @@ npm install
 
 ---
 
-### 3️⃣ Run the Application
+###  Run the Application
 
 ```bash
 npm run dev
@@ -150,7 +150,7 @@ http://localhost:5173
 
 ---
 
-# 🧠 How It Works
+#  How It Works
 
 1. The **Admin logs in** and assigns tasks to employees.
 2. Tasks are stored in **LocalStorage** instead of a database.
@@ -164,7 +164,7 @@ http://localhost:5173
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 You can add screenshots here to demonstrate the UI.
 
@@ -178,7 +178,7 @@ Example:
 
 ---
 
-# 📚 Learning Objectives
+#  Learning Objectives
 
 This project was developed to strengthen understanding of:
 
@@ -191,7 +191,7 @@ This project was developed to strengthen understanding of:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Rahul Mohite**
 
@@ -200,6 +200,6 @@ https://github.com/RahulMohiteDEV
 
 ---
 
-# ⭐ Support
+#  Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
