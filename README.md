@@ -191,15 +191,4 @@ This project was developed to strengthen understanding of:
 
 ---
 
-#  Author
 
-**Rahul Mohite**
-
-GitHub
-https://github.com/RahulMohiteDEV
-
----
-
-#  Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
