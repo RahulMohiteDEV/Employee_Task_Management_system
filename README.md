@@ -6,7 +6,7 @@ This project focuses on **simplicity, speed, and usability** by allowing adminis
 
 The system uses **local storage for data persistence**, making it ideal for **small teams, demo environments, or offline usage**.
 
----
+--
 
 # Features
 
